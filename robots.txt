@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heo0ny.github.io/intl-cn-mahjong-com/sitemap.xml
